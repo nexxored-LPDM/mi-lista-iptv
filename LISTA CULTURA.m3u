@@ -67,8 +67,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1,ATV
 https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL
-#EXTINF:-1,HOLA PLAY
-https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1,TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,LATINA TV
