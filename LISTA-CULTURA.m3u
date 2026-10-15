@@ -3,8 +3,17 @@
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL NEWS ASIA" group-title="Noticias",CHANNEL NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN CHINA" group-title="Noticias",PERFIL +
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE ARGENTINA" group-title=EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="PERFIL TV" group-title="Noticias",PERFIL +
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" group-title="ARG",NET TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="C3" group-title="ARG",C3 ARGENTINA
+https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN CHINA DOC" group-title="Documentales",CGTN CHINA DOC
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
@@ -29,3 +38,25 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 24 HORAS" group-title="Noticias",CANAL 24 HORAS
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RETRO PLUS" group-title="Noticias",CANAL 24 HORAS
+https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="TRIBU TV" group-title="MUSICA",Tribu Arg
+https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="AMX NOTICIAS" group-title="NOTICIAS",Mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" group-title="NOTICIAS",CARACOL
+http://181.78.14.26:4000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CARITAS TV" group-title="SPIRIT",Caritas TV
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
+
+
+
+
+
+
